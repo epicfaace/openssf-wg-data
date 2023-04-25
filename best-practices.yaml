@@ -1,0 +1,28 @@
+name: Best Practices for Open Source Developers WG
+short_description: Identification, awareness, and education 
+of security best practices
+description: This group works to provide open source developers with best practices recommendations and supply easy ways to learn and apply them.
+active_projects:
+  - name: Concise Guides
+    description: One guide for developing software and another for evaluating OSS.
+  - name: Secure Software Development Fundamentals
+    description: Online courses to teach developing secure software.
+  - name: Security Knowledge Framework (SKF)
+    description: Education on integrating security by design in web applications.
+  - name: OpenSSF Best Practices Badge
+    description: Badging system to identify implementation of security best practices.
+  - name: OpenSSF Scorecard Project
+    description: Automate analysis and trust decisions on the security of OSS projects.
+  - name: Great MFA Distribution Project
+    description: Distribute MFA tokens to OSS developers and how best to use them.
+  - name: Package Manager Best Practices
+    description: Document security best practices for using package managers.
+  - name: Education SIG
+    description: Works to provide industry standard secure software development training materials.
+git_repo: https://github.com/ossf/wg-best-practices-os-developers
+leads:
+  - name: Christopher “CRob” Robinson
+    organization: Intel
+  - name: Xavier René-Corail
+    organization: GitHub
+membership: 18 regular attendees, 20+ intermittent attendees

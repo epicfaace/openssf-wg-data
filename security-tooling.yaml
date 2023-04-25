@@ -1,0 +1,19 @@
+name: Security Tooling WG
+short_description: State of the art security tools
+description: This group’s mission is to provide the best security tools for open source developers and make them universally accessible.
+active_projects:
+  - name: SBOM Everywhere SIG
+    description: An effort to increase adoption and ease of use of SBOMs.
+  - name: Guide to Security Tools
+    description: A guide for software developers on key software security tools.
+  - name: CVE Benchmark
+    description: Code and metadata for over 200 real life CVEs, as well as tooling to analyze vulnerable codebases using a variety of static analysis security testing (SAST) tools.
+  - name: Fuzzing
+    description: Focuses on improving fuzzing, including developing the Fuzz introspector tool that helps fuzzer developers to get an understanding of their fuzzer’s performance and identify any potential blockers.
+  - name: Web Application Definition Spec
+    description: Spec file in OSS projects to define how app can be run in a test environment, for Dynamic Application Security Testing (DAST) tools.
+git_repo: https://github.com/ossf/wg-security-tooling
+leads:
+  - name: Josh Bressers
+    organization: Anchore
+membership: 15 regular attendees in the SBOM Everywhere group

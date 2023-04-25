@@ -1,0 +1,15 @@
+name: Securing Software Repositories WG
+short_description: Collaboration between repository operators
+description: This group provides a collaborative environment for aligning on the introduction of new tools and technologies to strengthen and secure software repositories.
+active_projects:
+  - name: Landscape Survey
+    description: In 2022, the WG Conducted a ”landscape“ survey of existing capabilities of key software repositories, including potential security gaps or room for improvement, and shared the results.
+  - name: Technology Adoption
+    description: The WG also contributed extensively to guiding and discussing RFCs and proposals on the adoption of key OpenSSF technologies, including Sigstore, into major software repositories.
+  - name: Shared Helpdesk
+    description: The WG also developed and shared a proposal for a ”shared helpdesk“ to mitigate the burden of increased security measures by software repos.
+git_repo: https://github.com/ossf/wg-securing-software-repos
+leads:
+  - name: Dustin Ingram
+    organization: Google
+membership: 20 - 40 regular contributors

@@ -1,0 +1,17 @@
+name: Supply Chain Integrity WG
+short_description: Ensuring the provenance of open source code
+description: This group is helping people understand and make decisions on the provenance of the code they maintain, produce and use.
+active_projects:
+  - name: Supply-chain Levels for Software Artifacts (SLSA, pronounced ”salsa”)
+    description: A security framework, a check list of standards and controls to prevent tampering, improve integrity, and secure packages and infrastructure in your projects, businesses or enterprises.
+  - name: Factory for Repeatable Secure Creation of Artifacts (FRSCA, pronounced “fresca”)
+    description: A suite of tools and abstractions to help secure the supply chain by securing build pipelines.
+  - name: Secure Supply Chain Consumption Framework (S2C2F) Special Interest Group (SIG)
+    description: A capability maturity roadmap to help establish a secure OSS ingestion process and establish a strong governance program to manage your organization's use of OSS.
+git_repo: https://github.com/ossf/wg-supply-chain-integrity
+leads:
+  - name: Kim Lewandowski
+    organization: Chainguard
+  - name: Dan Lorenc
+    organization: Chainguard
+membership: Our regular meetings normally have between 20-30 attendees

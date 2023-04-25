@@ -1,0 +1,23 @@
+name: Securing Critical Projects WG
+short_description: Identification of critical open source projects
+description: This group exists to identify and help to allocate resources to secure the critical open source projects we all depend on.
+active_projects:
+  - name: Securing Critical Projects
+    description: Maintaining list of critical open source Projects, components, and frameworks
+  - name: criticality_score
+    description: Estimates criticality of open source projects with a metric based on project activity.
+  - name: Census II
+    description: Identifies most common FOSS libraries in partnership with Harvard LISH researchers
+  - name: package-feeds
+    description: Tooling for feed parsing for language package manager updates
+  - name: package-analysis
+    description: Tooling to detect malicious behavior of packages available on OSS repositories
+  - name: allstar
+    description: A GitHub App that monitors GitHub repositories for adherence to security best practices
+git_repo: https://github.com/ossf/wg-securing-critical-projects
+leads:
+  - name: Amir Montazery
+    organization: OSTIF
+  - name: Jeff Mendoza
+    organization: Google
+membership: Average 8-15 participants per meeting

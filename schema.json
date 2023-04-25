@@ -1,2 +1,72 @@
 {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string"
+        },
+        "short_description": {
+            "type": "string"
+        },
+        "description": {
+            "type": "string"
+        },
+        "active_projects": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "name": {
+                        "type": "string"
+                    },
+                    "description": {
+                        "type": "string"
+                    }
+                },
+                "required": [
+                    "name",
+                    "description"
+                ]
+            }
+        },
+        "git_repo": {
+            "type": "string",
+            "format": "uri"
+        },
+        "website": {
+            "type": "string",
+            "format": "uri"
+        },
+        "mailing_list": {
+            "type": "string",
+            "format": "uri"
+        },
+        "adoption": {
+            "type": "string"
+        },
+        "leads": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "name": {
+                        "type": "string"
+                    },
+                    "organization": {
+                        "type": "string"
+                    }
+                },
+                "required": [
+                    "name",
+                    "organization"
+                ]
+            }
+        },
+        "membership": {
+            "type": "string"
+        }
+    },
+    "required": [
+        "name"
+    ]
 }

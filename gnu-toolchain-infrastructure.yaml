@@ -1,0 +1,4 @@
+name: GNU Toolchain Infrastructure
+short_description: GNU Toolchain Infrastructure support
+description: The GNU Toolchain development community develops and maintains the compiler, assembler, linker, debugger, C Library, language runtimes (C++, Fortran, Go, Rust) and utilities used in the GNU/Linux system and all known Linux distributions. GTI’s mission is to “provide the FSF’s GNU Toolchain community with a secure infrastructure and state of the art services required to support the community’s development efforts to be a trusted foundation in a secure supply chain.”
+website: https://www.gnu.org/software/libc/gti-tac/index.html

@@ -1,0 +1,6 @@
+name: Sigstore
+short_description: A standard for signing, verifying and protecting software
+description: Sigstore is a new standard for signing, verifying, and protecting software. Sigstore enables developers to validate that the software they are using is exactly what it claims to be using cryptographic digital signatures and transparency log technologies. Sigstore offers a suite of technologies that include Cosign for signing software artifacts, the Fulcio certificate authority, the Rekor transparency log, and Gitsign for signing Git commits. These tools can be used independently, or as one single process, for a holistic approach to open source security.
+git_repo: https://github.com/sigstore
+website: https://www.sigstore.dev/
+adoption: 450+ contributors, 9.4 mil+ Rekor signatures, 70+ organizations.

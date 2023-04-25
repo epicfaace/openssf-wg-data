@@ -1,0 +1,17 @@
+name: End Users WG
+short_description: Voice of public & private sector orgs that primarily consume open source
+description: This group represents the interests of public and private sector organizations that primarily consume open source rather than produce it.
+active_projects:
+  - name: Use Cases
+    description: Ensure that the use cases for end user consumption of open-source software are understood and factored into OSSF programs.
+  - name: Resources
+    description: Provide the resources required by end users to develop and implement more efficient and effective strategies, processes, tools, best practices and solutions that secure software supply-chains
+  - name: Participation
+    description: Provide a forum for learning from the experience and insights of peers, such as active participation in forums such as the OpenSSF TAC and Governing Board.
+git_repo: https://github.com/ossf/wg-endusers
+leads:
+  - name: Jonathan Meadows
+    organization: Citi
+  - name: Andrew Aitken
+    organization: Wipro
+membership: 15+ representing a strong mix of end users of open source

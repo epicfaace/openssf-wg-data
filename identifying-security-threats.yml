@@ -1,0 +1,17 @@
+name: Identifying Security Threats WG
+short_description: Metrics/reviews for open source projects
+description: This group enables informed confidence in the security of OSS by collecting, curating, and communicating relevant metrics and metadata.
+active_projects:
+  - name: Alpha-Omega
+    description: Systematically finding and remediating vulnerabilities in open source software libraries.
+  - name: Security Insights
+    description: Provides a mechanism for projects to report information about their security practices in a machine-readable way.
+  - name: Security Metrics
+    description: Collect, organize, and provide interesting security metrics for open source projects to stakeholders, including users.
+  - name: Security Reviews
+    description: Contains a collection of security reviews of open source software.
+git_repo: https://github.com/ossf/wg-identifying-security-threats
+leads:
+  - name: Michael Scovetta
+    organization: Microsoft
+membership: 10-15 members

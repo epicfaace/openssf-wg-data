@@ -1,0 +1,6 @@
+name: Alpha-Omega
+short_description: Systematically finding and fixing vulnerabilities in open source projects
+description: Through Alpha, we fund security work for some of the most critical open source projects; through Omega, we apply software engineering and security research to identify security across a much wider set of widely-used projects.
+git_repo: https://github.com/ossf/alpha-omega
+website: https://openssf.org/community/alpha-omega/
+mailing_list: https://lists.openssf.org/g/alpha-omega-announcements
