@@ -1,6 +1,5 @@
 name: Best Practices for Open Source Developers WG
-short_description: Identification, awareness, and education 
-of security best practices
+short_description: Identification, awareness, and education of security best practices
 description: This group works to provide open source developers with best practices recommendations and supply easy ways to learn and apply them.
 active_projects:
   - name: Concise Guides
